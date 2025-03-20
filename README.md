@@ -25,4 +25,4 @@ This script is designed to display answers to questions in the Kahoot game.
 - Access to the Kahoot API to fetch quiz data.
 
 ## License
-This project is distributed under the MIT license. You are free to modify and use the code for personal and educational purposes.
+This project is distributed under the Appache license.
